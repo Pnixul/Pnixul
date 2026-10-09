@@ -23,13 +23,27 @@ I like understanding **how things work** — and finding ways to make them bette
 - 🔐 Exploring cybersecurity and how to build more trustworthy software
 - ✨ Trying to make things that are not just functional, but meaningful
 
+
 ## Things I build with
 
-<div align="center">
-  <img src="./assets/tech-stack-3d.svg"
-       alt="My tech stack"
-       width="720" />
-</div>
+### Languages & Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vue,nuxtjs,angular,tailwind&perline=10" alt="Languages and Frontend" />
+</p>
+
+### Backend & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,vercel&perline=10" alt="Backend and Infrastructure" />
+</p>
+
+### Tools & Workflow
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,playwright,eslint&perline=10" alt="Tools and Workflow" />
+</p>
+
 
 ### Selected projects
 
