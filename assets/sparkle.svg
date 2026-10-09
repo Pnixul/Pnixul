@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">Soft periwinkle sparkle</title>
+  <circle cx="48" cy="48" r="38" fill="#EAF0FA"/>
+  <path d="M48 16 C51 34 62 45 80 48 C62 51 51 62 48 80 C45 62 34 51 16 48 C34 45 45 34 48 16Z" fill="#789FC7">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="76" cy="21" r="4" fill="#C2B8E7"/>
+  <circle cx="22" cy="74" r="3" fill="#A3C7B9"/>
+</svg>
