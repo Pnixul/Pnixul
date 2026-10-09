@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="862" viewBox="0 0 900 862" role="img" aria-label="Minimal three-dimensional tiles showing Chitipat’s tech stack">
+<defs><filter id="shadow" x="-40%" y="-40%" width="180%" height="200%"><feGaussianBlur stdDeviation="5"/></filter><linearGradient id="front" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#F8FAFF"/><stop offset="1" stop-color="#E6ECF7"/></linearGradient></defs>
+<text x="30" y="50" font-size="22" font-weight="600" font-family="Arial,sans-serif" fill="#789FC7">Languages &amp; Frontend</text>
+<g><ellipse cx="104" cy="164" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M40 87 L150 87 L169 76 L59 76 Z" fill="#3178C6" opacity=".62"/>
+  <path d="M150 87 L169 76 L169 148 L150 161 Z" fill="#3178C6" opacity=".85"/>
+  <rect x="40" y="87" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="62" y="98" width="66" height="42" rx="9" fill="#3178C6" opacity=".14"/>
+  <text x="95" y="126" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#3178C6">TS</text>
+  <text x="95" y="180" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">TypeScript</text></g>
+<g><ellipse cx="279" cy="164" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M215 87 L325 87 L344 76 L234 76 Z" fill="#D8B63F" opacity=".62"/>
+  <path d="M325 87 L344 76 L344 148 L325 161 Z" fill="#D8B63F" opacity=".85"/>
+  <rect x="215" y="87" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="237" y="98" width="66" height="42" rx="9" fill="#D8B63F" opacity=".14"/>
+  <text x="270" y="126" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#D8B63F">JS</text>
+  <text x="270" y="180" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">JavaScript</text></g>
+<g><ellipse cx="454" cy="164" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M390 87 L500 87 L519 76 L409 76 Z" fill="#E56A42" opacity=".62"/>
+  <path d="M500 87 L519 76 L519 148 L500 161 Z" fill="#E56A42" opacity=".85"/>
+  <rect x="390" y="87" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="412" y="98" width="66" height="42" rx="9" fill="#E56A42" opacity=".14"/>
+  <text x="445" y="126" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#E56A42">HTML</text>
+  <text x="445" y="180" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">HTML</text></g>
+<g><ellipse cx="629" cy="164" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M565 87 L675 87 L694 76 L584 76 Z" fill="#5686C7" opacity=".62"/>
+  <path d="M675 87 L694 76 L694 148 L675 161 Z" fill="#5686C7" opacity=".85"/>
+  <rect x="565" y="87" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="587" y="98" width="66" height="42" rx="9" fill="#5686C7" opacity=".14"/>
+  <text x="620" y="126" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#5686C7">CSS</text>
+  <text x="620" y="180" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">CSS</text></g>
+<g><ellipse cx="804" cy="164" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M740 87 L850 87 L869 76 L759 76 Z" fill="#63BBD5" opacity=".62"/>
+  <path d="M850 87 L869 76 L869 148 L850 161 Z" fill="#63BBD5" opacity=".85"/>
+  <rect x="740" y="87" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="762" y="98" width="66" height="42" rx="9" fill="#63BBD5" opacity=".14"/>
+  <text x="795" y="126" font-size="14" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#63BBD5">React</text>
+  <text x="795" y="180" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">React</text></g>
+<g><ellipse cx="104" cy="282" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M40 205 L150 205 L169 194 L59 194 Z" fill="#7C8496" opacity=".62"/>
+  <path d="M150 205 L169 194 L169 266 L150 279 Z" fill="#7C8496" opacity=".85"/>
+  <rect x="40" y="205" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="62" y="216" width="66" height="42" rx="9" fill="#7C8496" opacity=".14"/>
+  <text x="95" y="244" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#7C8496">Next</text>
+  <text x="95" y="298" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">Next.js</text></g>
+<g><ellipse cx="279" cy="282" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M215 205 L325 205 L344 194 L234 194 Z" fill="#42A982" opacity=".62"/>
+  <path d="M325 205 L344 194 L344 266 L325 279 Z" fill="#42A982" opacity=".85"/>
+  <rect x="215" y="205" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="237" y="216" width="66" height="42" rx="9" fill="#42A982" opacity=".14"/>
+  <text x="270" y="244" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#42A982">Vue</text>
+  <text x="270" y="298" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">Vue</text></g>
+<g><ellipse cx="454" cy="282" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M390 205 L500 205 L519 194 L409 194 Z" fill="#43AD87" opacity=".62"/>
+  <path d="M500 205 L519 194 L519 266 L500 279 Z" fill="#43AD87" opacity=".85"/>
+  <rect x="390" y="205" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="412" y="216" width="66" height="42" rx="9" fill="#43AD87" opacity=".14"/>
+  <text x="445" y="244" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#43AD87">Nuxt</text>
+  <text x="445" y="298" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">Nuxt</text></g>
+<g><ellipse cx="629" cy="282" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M565 205 L675 205 L694 194 L584 194 Z" fill="#D95071" opacity=".62"/>
+  <path d="M675 205 L694 194 L694 266 L675 279 Z" fill="#D95071" opacity=".85"/>
+  <rect x="565" y="205" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="587" y="216" width="66" height="42" rx="9" fill="#D95071" opacity=".14"/>
+  <text x="620" y="244" font-size="14" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#D95071">Angular</text>
+  <text x="620" y="298" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">Angular</text></g>
+<g><ellipse cx="804" cy="282" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M740 205 L850 205 L869 194 L759 194 Z" fill="#38AFC5" opacity=".62"/>
+  <path d="M850 205 L869 194 L869 266 L850 279 Z" fill="#38AFC5" opacity=".85"/>
+  <rect x="740" y="205" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="762" y="216" width="66" height="42" rx="9" fill="#38AFC5" opacity=".14"/>
+  <text x="795" y="244" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#38AFC5">TW</text>
+  <text x="795" y="298" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">Tailwind</text></g>
+<text x="30" y="364" font-size="22" font-weight="600" font-family="Arial,sans-serif" fill="#789FC7">Backend &amp; Infrastructure</text>
+<g><ellipse cx="104" cy="478" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M40 401 L150 401 L169 390 L59 390 Z" fill="#75A85B" opacity=".62"/>
+  <path d="M150 401 L169 390 L169 462 L150 475 Z" fill="#75A85B" opacity=".85"/>
+  <rect x="40" y="401" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="62" y="412" width="66" height="42" rx="9" fill="#75A85B" opacity=".14"/>
+  <text x="95" y="440" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#75A85B">Node</text>
+  <text x="95" y="494" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">Node.js</text></g>
+<g><ellipse cx="279" cy="478" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M215 401 L325 401 L344 390 L234 390 Z" fill="#59A984" opacity=".62"/>
+  <path d="M325 401 L344 390 L344 462 L325 475 Z" fill="#59A984" opacity=".85"/>
+  <rect x="215" y="401" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="237" y="412" width="66" height="42" rx="9" fill="#59A984" opacity=".14"/>
+  <text x="270" y="440" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#59A984">Supa</text>
+  <text x="270" y="494" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">Supabase</text></g>
+<g><ellipse cx="454" cy="478" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M390 401 L500 401 L519 390 L409 390 Z" fill="#E6A63B" opacity=".62"/>
+  <path d="M500 401 L519 390 L519 462 L500 475 Z" fill="#E6A63B" opacity=".85"/>
+  <rect x="390" y="401" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="412" y="412" width="66" height="42" rx="9" fill="#E6A63B" opacity=".14"/>
+  <text x="445" y="440" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#E6A63B">Fire</text>
+  <text x="445" y="494" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">Firebase</text></g>
+<g><ellipse cx="629" cy="478" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M565 401 L675 401 L694 390 L584 390 Z" fill="#8A91A4" opacity=".62"/>
+  <path d="M675 401 L694 390 L694 462 L675 475 Z" fill="#8A91A4" opacity=".85"/>
+  <rect x="565" y="401" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="587" y="412" width="66" height="42" rx="9" fill="#8A91A4" opacity=".14"/>
+  <text x="620" y="440" font-size="14" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#8A91A4">Vercel</text>
+  <text x="620" y="494" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">Vercel</text></g>
+<text x="30" y="560" font-size="22" font-weight="600" font-family="Arial,sans-serif" fill="#789FC7">Tools &amp; Workflow</text>
+<g><ellipse cx="104" cy="674" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M40 597 L150 597 L169 586 L59 586 Z" fill="#E96B50" opacity=".62"/>
+  <path d="M150 597 L169 586 L169 658 L150 671 Z" fill="#E96B50" opacity=".85"/>
+  <rect x="40" y="597" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="62" y="608" width="66" height="42" rx="9" fill="#E96B50" opacity=".14"/>
+  <text x="95" y="636" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#E96B50">Git</text>
+  <text x="95" y="690" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">Git</text></g>
+<g><ellipse cx="279" cy="674" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M215 597 L325 597 L344 586 L234 586 Z" fill="#818CA4" opacity=".62"/>
+  <path d="M325 597 L344 586 L344 658 L325 671 Z" fill="#818CA4" opacity=".85"/>
+  <rect x="215" y="597" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="237" y="608" width="66" height="42" rx="9" fill="#818CA4" opacity=".14"/>
+  <text x="270" y="636" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#818CA4">GH</text>
+  <text x="270" y="690" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">GitHub</text></g>
+<g><ellipse cx="454" cy="674" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M390 597 L500 597 L519 586 L409 586 Z" fill="#4A9FCF" opacity=".62"/>
+  <path d="M500 597 L519 586 L519 658 L500 671 Z" fill="#4A9FCF" opacity=".85"/>
+  <rect x="390" y="597" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="412" y="608" width="66" height="42" rx="9" fill="#4A9FCF" opacity=".14"/>
+  <text x="445" y="636" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#4A9FCF">VS</text>
+  <text x="445" y="690" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">VS Code</text></g>
+<g><ellipse cx="629" cy="674" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M565 597 L675 597 L694 586 L584 586 Z" fill="#A781CA" opacity=".62"/>
+  <path d="M675 597 L694 586 L694 658 L675 671 Z" fill="#A781CA" opacity=".85"/>
+  <rect x="565" y="597" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="587" y="608" width="66" height="42" rx="9" fill="#A781CA" opacity=".14"/>
+  <text x="620" y="636" font-size="14" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#A781CA">Figma</text>
+  <text x="620" y="690" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">Figma</text></g>
+<g><ellipse cx="804" cy="674" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M740 597 L850 597 L869 586 L759 586 Z" fill="#6DAD69" opacity=".62"/>
+  <path d="M850 597 L869 586 L869 658 L850 671 Z" fill="#6DAD69" opacity=".85"/>
+  <rect x="740" y="597" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="762" y="608" width="66" height="42" rx="9" fill="#6DAD69" opacity=".14"/>
+  <text x="795" y="636" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#6DAD69">PW</text>
+  <text x="795" y="690" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">Playwright</text></g>
+<g><ellipse cx="104" cy="792" rx="60" ry="8" fill="#506382" opacity=".15" filter="url(#shadow)"/>
+  <path d="M40 715 L150 715 L169 704 L59 704 Z" fill="#A49BD9" opacity=".62"/>
+  <path d="M150 715 L169 704 L169 776 L150 789 Z" fill="#A49BD9" opacity=".85"/>
+  <rect x="40" y="715" width="110" height="74" rx="8" fill="url(#front)" stroke="#C9D5E8" stroke-width="1.5"/>
+  <rect x="62" y="726" width="66" height="42" rx="9" fill="#A49BD9" opacity=".14"/>
+  <text x="95" y="754" font-size="17" text-anchor="middle" font-weight="700" font-family="Arial,sans-serif" fill="#A49BD9">ES</text>
+  <text x="95" y="808" font-size="13" text-anchor="middle" font-family="Arial,sans-serif" fill="#8294B1">ESLint</text></g>
+</svg>
