@@ -23,15 +23,13 @@ I like understanding **how things work** — and finding ways to make them bette
 - 🔐 Exploring cybersecurity and how to build more trustworthy software
 - ✨ Trying to make things that are not just functional, but meaningful
 
-### Things I build with
+## Things I build with
 
-**Languages & frameworks**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-789FC7?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-B9CDED?style=flat-square&logo=javascript&logoColor=26344A) ![Next.js](https://img.shields.io/badge/Next.js-789FC7?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-A3C7B9?style=flat-square&logo=vuedotjs&logoColor=26344A) ![Angular](https://img.shields.io/badge/Angular-C2B8E7?style=flat-square&logo=angular&logoColor=26344A) ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-B9CDED?style=flat-square&logo=tailwindcss&logoColor=26344A)
-
-**Tools & platforms**
-
-![Supabase](https://img.shields.io/badge/Supabase-A3C7B9?style=flat-square&logo=supabase&logoColor=26344A) ![Git](https://img.shields.io/badge/Git-C2B8E7?style=flat-square&logo=git&logoColor=26344A) ![Figma](https://img.shields.io/badge/Figma-B9CDED?style=flat-square&logo=figma&logoColor=26344A) ![Vercel](https://img.shields.io/badge/Vercel-789FC7?style=flat-square&logo=vercel&logoColor=white)
+<div align="center">
+  <img src="./assets/tech-stack-3d.svg"
+       alt="My tech stack"
+       width="720" />
+</div>
 
 ### Selected projects
 
